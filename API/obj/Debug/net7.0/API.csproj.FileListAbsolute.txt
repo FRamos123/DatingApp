@@ -136,3 +136,11 @@ C:\Users\arfon\Documents\projects\testDating\DatingApp\API\obj\Debug\net7.0\refi
 C:\Users\arfon\Documents\projects\testDating\DatingApp\API\obj\Debug\net7.0\API.pdb
 C:\Users\arfon\Documents\projects\testDating\DatingApp\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\arfon\Documents\projects\testDating\DatingApp\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
