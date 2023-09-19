@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\API.csproj": {}
+    "c:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\API.csproj": {
+    "c:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\arfon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\arfon\\Documents\\projects\\testDating\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arfon\\AppData\\Roaming\\NuGet\\NuGet.Config",
