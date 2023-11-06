@@ -147,3 +147,5 @@ C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Micr
 C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
 C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\CloudinaryDotNet.dll
+C:\Users\arfon\Documents\projects\testDating\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll
